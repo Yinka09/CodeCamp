@@ -1,4 +1,5 @@
 Simple Web Development Project
+
 This repository contains a simple web development project created with HTML and CSS. The project focuses on building a responsive and visually appealing web page using basic frontend technologies.
 
 Project Description
